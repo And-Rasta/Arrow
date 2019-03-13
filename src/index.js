@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 import { useSpring, animated } from 'react-spring';
 import './assets/css/style.css';
+import './assets/css/bootstrap-theme.css';
 import './logo.css';
 // import './index.css';
 // import App from './App';
