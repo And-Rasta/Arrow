@@ -1,11 +1,11 @@
-#root {
+#root2 {
   height: 100%;
   width: 100%;
   margin: 0;
   padding: 0;
 }
 
-#root > div {
+#root2 > div {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,6 +14,6 @@
   cursor: pointer;
 }
 
-#root > div > svg {
+#root2 > div > svg {
   width: 700px;
 }

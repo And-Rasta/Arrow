@@ -4,6 +4,7 @@ import { useSpring, animated } from 'react-spring';
 import './assets/css/style.css';
 import './assets/css/bootstrap-theme.css';
 import './logo.css';
+import './pastel.js';
 // import './index.css';
 // import App from './App';
 import * as serviceWorker from './serviceWorker';
